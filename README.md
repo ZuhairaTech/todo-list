@@ -12,4 +12,5 @@ A brief description of the project and its purpose.
 - [Contributing](#contributing)
 - [License](#license)
 
+This project is a learning exercise and is based on [Repo: Project Based Learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#javascript). I followed the guide to understand how the technology works and rebuilt it myself for practice.
 Incomplete
